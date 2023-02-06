@@ -1,0 +1,39 @@
+
+      /* Define the brutalist font */
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap');
+     
+      /* Define the brutalist style */
+      body {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 16px;
+        line-height: 1.5;
+        background-color: #F2E9E1;
+        color: #1C2833;
+        text-align: justify;
+        padding: 20px;
+      }
+     
+      h1 {
+        font-size: 32px;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+      }
+     
+      h2 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+     
+      p {
+        margin-bottom: 20px;
+      }
+     
+      a {
+        color: #1C2833;
+        text-decoration: underline;
+      }
+      ul {
+        margin: ;
+      }

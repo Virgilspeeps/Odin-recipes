@@ -1,0 +1,74 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#E7FF9E;
+    text-align: center;
+}
+.indexheader,
+.topheader  {
+    text-align: center;
+}
+.homeul {
+    text-align: center;
+}
+.homeul ul li {
+    display: inline;
+    padding: 18px;
+}#guacpic   {
+    width: 500px;
+    height: auto;
+}
+.guacul {
+    text-align: center;
+}
+.guacul ul li {
+    display: block;
+}
+.guacol {
+    text-align: center;
+}
+.guacol ol li {
+    display:block;
+    padding: 10;
+}
+#guacfieldset {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 80;
+    margin-right: 80;
+}
+#chilifieldset {
+    margin: auto;
+    margin-left: 80;
+    margin-right: 80;
+}
+#dipfs {
+    margin:auto;
+    margin-left: 80;
+    margin-right: 80;
+}
+.chiliul {
+    text-align: center;
+}
+.chiliul ul li {
+    display: block;
+}
+.chiliol {
+    text-align: center;
+}
+.chiliol ol li {
+    display: block;
+    padding: 10;
+}
+.dipul {
+    text-align: center;
+}
+.dipul ul li {
+    display: block;
+}
+.dipol {
+    text-align: center;
+}
+.dipol ol li {
+    display: block;
+    padding: 10;
+}
