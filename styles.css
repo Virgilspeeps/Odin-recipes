@@ -30,21 +30,23 @@ body {
     display:block;
     padding: 10;
 }
-#guacfieldset {
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 80;
-    margin-right: 80;
-}
-#chilifieldset {
+.guac {
+    border: 0px solid red;
+    width: 1000px;
+    height: auto;
     margin: auto;
-    margin-left: 80;
-    margin-right: 80;
 }
-#dipfs {
-    margin:auto;
-    margin-left: 80;
-    margin-right: 80;
+.hmchili {
+    border: 0px solid red;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+.bcdip {
+    border: 0px solid red;
+    width: 1000px;
+    height: auto;
+    margin: auto;
 }
 .chiliul {
     text-align: center;
